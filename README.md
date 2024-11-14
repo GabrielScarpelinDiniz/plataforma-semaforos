@@ -66,6 +66,8 @@ Se for o botão:
 }
 ```
 
+- 4.1 Eu esqueci de avisar no commit anterior, mas o botão deve estar na placa que ele quer fechar o semáforo. Exemplo: Se o pedestre vai atravessar a rua que o semáforo A controla, o botão deve estar na placa do semáforo A. Se o pedestre vai atravessar a rua que o semáforo B controla, o botão deve estar na placa do semáforo B. Já o sensor LDR, se um carro quiser abrir o semáforo A, o sensor LDR deve estar na placa do semáforo B. Se um carro quiser abrir o semáforo B, o sensor LDR deve estar na placa do semáforo A. (Eu sei que é confuso, mas é isso mesmo, desculpe a falta de padrão, foi incompetência minha mesmo de fazer com pressa).
+
 5. Pronto! Agora é só ver a mágica acontecer.
 
 ## Observações
